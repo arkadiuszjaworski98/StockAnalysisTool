@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StockAnalysisTool/1.0.0": {
+        "runtime": {
+          "StockAnalysisTool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StockAnalysisTool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

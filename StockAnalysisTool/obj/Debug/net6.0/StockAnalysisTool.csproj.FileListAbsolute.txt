@@ -1,0 +1,15 @@
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/bin/Debug/net6.0/StockAnalysisTool
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/bin/Debug/net6.0/StockAnalysisTool.deps.json
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/bin/Debug/net6.0/StockAnalysisTool.runtimeconfig.json
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/bin/Debug/net6.0/StockAnalysisTool.dll
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/bin/Debug/net6.0/StockAnalysisTool.pdb
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/StockAnalysisTool.csproj.AssemblyReference.cache
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/StockAnalysisTool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/StockAnalysisTool.AssemblyInfoInputs.cache
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/StockAnalysisTool.AssemblyInfo.cs
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/StockAnalysisTool.csproj.CoreCompileInputs.cache
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/StockAnalysisTool.dll
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/refint/StockAnalysisTool.dll
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/StockAnalysisTool.pdb
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/StockAnalysisTool.genruntimeconfig.cache
+/Users/arkadiuszjaworski/Projects/StockAnalysisTool/StockAnalysisTool/obj/Debug/net6.0/ref/StockAnalysisTool.dll
